@@ -1,0 +1,12 @@
+{
+  "id": "chessdotcom",
+  "name": "Chess.com",
+  "version": "1.0.0",
+  "description": "Chess.com",
+  "main": "index.js",
+  "author": "Tim Schlechter <timschlechter@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.chess.com/"
+  }
+}
